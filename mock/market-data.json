@@ -1,0 +1,142 @@
+{
+  "universe": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "META",
+    "GOOGL",
+    "TSLA",
+    "MU",
+    "SPCX",
+    "AMD",
+    "JPM",
+    "BAC",
+    "MS",
+    "XOM",
+    "LLY",
+    "BTCUSD",
+    "ETHUSD"
+  ],
+  "indexes": [
+    {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "last": 7529.20,
+      "open": 7548.60,
+      "change": -19.40,
+      "changePct": -0.26,
+      "exchange": "INDEX"
+    },
+    {
+      "symbol": "NDX",
+      "name": "Nasdaq",
+      "last": 26534.18,
+      "open": 26649.97,
+      "change": -115.79,
+      "changePct": -0.43,
+      "exchange": "INDEX"
+    },
+    {
+      "symbol": "DJI",
+      "name": "Dow",
+      "last": 52088.73,
+      "open": 51712.63,
+      "change": 376.10,
+      "changePct": 0.73,
+      "exchange": "INDEX"
+    },
+    {
+      "symbol": "RUT",
+      "name": "Russell",
+      "last": 2959.03,
+      "open": 2971.61,
+      "change": -12.58,
+      "changePct": -0.42,
+      "exchange": "INDEX"
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "last": 65919.80,
+      "open": 66880.0,
+      "change": -960.20,
+      "changePct": -1.44,
+      "exchange": "INDEX"
+    },
+    {
+      "symbol": "GOLD",
+      "name": "Gold",
+      "last": 4362.80,
+      "open": 4351.20,
+      "change": 11.60,
+      "changePct": 0.27,
+      "exchange": "INDEX"
+    },
+    {
+      "symbol": "OIL",
+      "name": "Oil",
+      "last": 75.84,
+      "open": 80.78,
+      "change": -4.94,
+      "changePct": -6.12,
+      "exchange": "INDEX"
+    }
+  ],
+  "quotes": [
+    {
+      "symbol": "AAPL",
+      "last": 298.94,
+      "open": 295.24,
+      "bid": 298.93,
+      "ask": 298.95,
+      "volume": 38210000,
+      "exchange": "NASDAQ"
+    },
+    {
+      "symbol": "NVDA",
+      "last": 209.54,
+      "open": 211.18,
+      "bid": 209.53,
+      "ask": 209.55,
+      "volume": 78240000,
+      "exchange": "NASDAQ"
+    },
+    {
+      "symbol": "TSLA",
+      "last": 405.39,
+      "open": 404.11,
+      "bid": 405.37,
+      "ask": 405.40,
+      "volume": 61300000,
+      "exchange": "NASDAQ"
+    }
+  ],
+  "news": [
+    {
+      "id": "manual-aapl-capex",
+      "time": 1781620800000,
+      "headline": "AAPL suppliers said to lift second-half component orders",
+      "source": "Desk",
+      "symbols": [
+        "AAPL",
+        "NVDA"
+      ],
+      "summary": "AAPL suppliers are reported to be raising second-half component orders.",
+      "body": "Suppliers tied to AAPL are said to be planning higher second-half component orders. Traders are watching whether the move points to stronger device demand or inventory timing.\n\nThis is a mock story.",
+      "priority": "high"
+    },
+    {
+      "id": "manual-tsla-margin",
+      "time": 1781617200000,
+      "headline": "TSLA slips as margin debate returns to desk chatter",
+      "source": "Desk",
+      "symbols": [
+        "TSLA"
+      ],
+      "summary": "TSLA shares are under pressure as margin questions return to the tape.",
+      "body": "TSLA is trading lower as investors revisit pricing and margin assumptions. Desk chatter remains focused on deliveries, incentives and operating leverage into the next update.\n\nThis is a mock story.",
+      "priority": "normal"
+    }
+  ]
+}
